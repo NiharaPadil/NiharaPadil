@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Nihara
+- 🌱 I’m currently pursuing my BE degree in cse(data science) 

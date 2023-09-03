@@ -1,5 +1,13 @@
-- 👋 Hi, I’m Nihara
-- 🌱 I’m currently pursuing my BE degree in cse(data science) 
+👋 Hey there! I'm Nihara.
+
+👨‍🎓 Second-year Student | 💻 Tech Enthusiast | 🚀 Aspiring Developer
+
+📚 Passionate about learning and diving into the world of technology.
+
+📫 Let's connect and grow together! Reach me at niharapadilhr@gmail.com
+
+🔗 Check out my personal website at [yourwebsite.com](https://www.yourwebsite.com) to learn more about my journey.
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niharapadil&label=Profile%20views&color=0e75b6&style=flat" alt="niharapadil" /> </p>

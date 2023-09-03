@@ -1,11 +1,17 @@
 
 <h1 align="center">Hi 👋, I'm Nihara</h1>
 
+
 👨‍🎓 Second-year Student | 💻 Tech Enthusiast | 🚀 Aspiring Developer
 
 📚 Passionate about learning and diving into the world of technology.
 
 📫 Let's connect and grow together! Reach me at niharapadilhr@gmail.com
+
+<hr>
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niharapadil&label=Profile%20views&color=0e75b6&style=flat" alt="niharapadil" /> </p>
 

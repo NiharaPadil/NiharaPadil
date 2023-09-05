@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nihara</h1>
 <img src="https://im5.ezgif.com/tmp/ezgif-5-5a1e587d5f.gif" align="right"/>
 <h3>
-👨‍🎓 Second-year Student | 💻 Tech Enthusiast | 🚀 Aspiring Developer<br></br>📚 Passionate about learning and diving into the world of technology.<br><br>📫 Let's connect and grow together! Reach me at niharapadilhr@gmail.com
+👨‍🎓 Second-year Student | 💻 Tech Enthusiast | 🚀 Aspiring Developer<br></br>📚 Passionate about learning and diving into the world of technology.<br><br>📫 Let's connect and grow together! Reach me at - niharapadilhr@gmail.com
 </h3>
 <br>
 

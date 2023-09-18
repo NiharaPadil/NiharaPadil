@@ -5,7 +5,6 @@
 <h3>
 👨‍🎓 Second-year Student | 💻 Tech Enthusiast | 🚀 Aspiring Developer<br></br>📚 Passionate about learning and diving into the world of technology.<br><br>📫 Let's connect and grow together! Reach me at - niharapadilhr@gmail.com
 </h3>
-
 <!--
 - 📫 How to reach me **niharapadilhr@gmail.com**
 <!--

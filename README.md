@@ -11,7 +11,7 @@
 - 📄 Know about my experiences [https://novoresume.com/editor/resume/abc71200-1430-11ee-91f7-0d3fcccd8be7](https://novoresume.com/editor/resume/abc71200-1430-11ee-91f7-0d3fcccd8be7)-->
 
 <img src="https://github.com/NiharaPadil/NiharaPadil/assets/128722140/001a780d-2c86-4c29-9bb3-0fee9f552441"/>
-<p align="left"> <img src="![](https://komarev.com/ghpvc/?username=NiharaPadil)" alt="niharapadil" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=niharapadil&label=Profile%20views&color=0e75b6&style=flat" alt="niharapadil" /> </p>
 <hr>
 
 

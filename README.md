@@ -3,7 +3,7 @@
 <img align="right" src="https://github.com/NiharaPadil/NiharaPadil/assets/128722140/64cdee22-0172-411e-ab3b-a8a704216916" height=250 width= 220/>
 
 <h3>
-👨‍🎓 Second-year Student | 💻 Tech Enthusiast | 🚀 Aspiring Developer<br></br>📚 Passionate about learning and diving into the world of technology.<br><br>📫 Let's connect and grow together! Reach me at - niharapadilhr@gmail.com
+👨‍🎓 Second-year Student | 💻 Tech Enthusiast | 🚀 Aspiring Developer<br></br>📚 Passionate about learning and diving into the world of technology.<br><br>📫 Let's connect! Reach me at - niharapadilhr@gmail.com
 </h3>
 <!--
 - 📫 How to reach me **niharapadilhr@gmail.com**

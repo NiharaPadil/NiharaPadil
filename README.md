@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nihara</h1>
 
-<img align="right" src="https://github.com/NiharaPadil/NiharaPadil/assets/128722140/18304003-23a7-4b81-b48e-d5ba84e17172"/>
+<img align="right" src="https://github.com/NiharaPadil/NiharaPadil/assets/128722140/64cdee22-0172-411e-ab3b-a8a704216916" height=250 width= 250/>
 
 <h3>
 👨‍🎓 Second-year Student | 💻 Tech Enthusiast | 🚀 Aspiring Developer<br></br>📚 Passionate about learning and diving into the world of technology.<br><br>📫 Let's connect and grow together! Reach me at - niharapadilhr@gmail.com

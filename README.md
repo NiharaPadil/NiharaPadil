@@ -7,8 +7,7 @@
 </h3>
 <!--
 - 📫 How to reach me **niharapadilhr@gmail.com**
-<!--
-- 📄 Know about my experiences [https://novoresume.com/editor/resume/abc71200-1430-11ee-91f7-0d3fcccd8be7](https://novoresume.com/editor/resume/abc71200-1430-11ee-91f7-0d3fcccd8be7)
+- 📄 Know about my experiences [https://novoresume.com/editor/resume/abc71200-1430-11ee-91f7-0d3fcccd8be7](https://novoresume.com/editor/resume/abc71200-1430-11ee-91f7-0d3fcccd8be7)--->
 
 <!---<img src="https://github.com/NiharaPadil/NiharaPadil/assets/128722140/001a780d-2c86-4c29-9bb3-0fee9f552441"/>--->
 <br>
@@ -27,6 +26,7 @@
 <a href="https://hashnode.com/@nihara" target="_blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="@nihara" height="40" width="40" /></a>
 <a href="https://medium.com/@niharapadilhr" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=XVNvUWCvvlD9&format=png" alt="@niharapadilhr" height="40" width="40" /></a>
 </p>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -38,8 +38,10 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=v8RpPQUwv0N8&format=png" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=13679&format=png" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=13441&format=png" alt="python" width="40" height="40"/> </a> </p>
+<br><hr><br>
 
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niharapadil&" alt="niharapadil" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=niharapadil&show_icons=true&locale=en" alt="niharapadil" />
+<div style="text-align: center;">
+    <img style="display: inline-block;" src="https://github-readme-streak-stats.herokuapp.com/?user=niharapadil" alt="niharapadil" />
+    <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=niharapadil&show_icons=true&locale=en" alt="niharapadil" />
+</div>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niharapadil&show_icons=true&locale=en&layout=compact" alt="niharapadil" />

@@ -42,6 +42,7 @@
 
 <div style="text-align: center;">
     <img style="display: inline-block;" src="https://github-readme-streak-stats.herokuapp.com/?user=niharapadil" alt="niharapadil" />
-    <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=niharapadil&show_icons=true&locale=en" alt="niharapadil" />
+    <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=niharapadil&show_icons=true&locale=en&layout=compact" alt="niharapadil" />
 </div>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niharapadil&show_icons=true&locale=en&layout=compact" alt="niharapadil" />
+<img  src="https://github-readme-stats.vercel.app/api?username=niharapadil&show_icons=true&locale=en" alt="niharapadil" />
+

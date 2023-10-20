@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nihara</h1>
 
-<img align="right" src="https://github.com/NiharaPadil/NiharaPadil/assets/128722140/64cdee22-0172-411e-ab3b-a8a704216916" height=250 width= 220/>
+<img align="right" src="https://github.com/NiharaPadil/NiharaPadil/assets/128722140/64cdee22-0172-411e-ab3b-a8a704216916" height=200 width= 220/>
 
 <h3>
 👨‍🎓 Second-year Student | 💻 Tech Enthusiast | 🚀 Aspiring Developer<br></br>📚 Passionate about learning and diving into the world of technology.<br><br>📫 Let's connect! Reach me at - niharapadilhr@gmail.com
@@ -8,9 +8,9 @@
 <!--
 - 📫 How to reach me **niharapadilhr@gmail.com**
 <!--
-- 📄 Know about my experiences [https://novoresume.com/editor/resume/abc71200-1430-11ee-91f7-0d3fcccd8be7](https://novoresume.com/editor/resume/abc71200-1430-11ee-91f7-0d3fcccd8be7)-->
+- 📄 Know about my experiences [https://novoresume.com/editor/resume/abc71200-1430-11ee-91f7-0d3fcccd8be7](https://novoresume.com/editor/resume/abc71200-1430-11ee-91f7-0d3fcccd8be7)
 
-<img src="https://github.com/NiharaPadil/NiharaPadil/assets/128722140/001a780d-2c86-4c29-9bb3-0fee9f552441"/>
+<!---<img src="https://github.com/NiharaPadil/NiharaPadil/assets/128722140/001a780d-2c86-4c29-9bb3-0fee9f552441"/>--->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niharapadil&label=Profile%20views&color=0e75b6&style=flat" alt="niharapadil" /> </p>
 <hr>
 

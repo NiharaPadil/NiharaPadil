@@ -19,12 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/niharapadil" target="_blank"><img align="center" src="https://img.icons8.com/?size=512&id=13963&format=png" alt="niharapadil" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/nihara padil" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" alt="nihara padil" height="40" width="40" /></a>
-<a href="https://stackoverflow.com/users/21474650" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="21474650" height="40" width="40" /></a>
-<a href="https://kaggle.com/niharapadil" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="niharapadil" height="40" width="40" /></a>
 <a href="https://fb.com/nihara padil" target="_blank"><img align="center" src="https://img.icons8.com/?size=512&id=118497&format=png" alt="nihara padil" height="40" width="40" /></a>
-<a href="https://instagram.com/its_nihahaha_" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=32323&format=png" alt="its_nihahaha_" height="40" width="40" /></a>
-<a href="https://hashnode.com/@nihara" target="_blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="@nihara" height="40" width="40" /></a>
-<a href="https://medium.com/@niharapadilhr" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=XVNvUWCvvlD9&format=png" alt="@niharapadilhr" height="40" width="40" /></a>
 </p>
 <br>
 

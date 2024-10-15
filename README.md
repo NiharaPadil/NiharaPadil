@@ -15,7 +15,7 @@
 </p>
 
 
-- 🌐 Visit my portfolio at <a href="https://nihara-port-folio.vercel.app/" target="_blank">here</a>
+- 🌐 Visit my portfolio at <a href="https://nihara.vercel.app/" target="_blank">here</a>
 - 📄 Check out my resume <a href ="https://drive.google.com/file/d/1QuyRxL-jaQVQLwu6uJRXGKgQEoApJDsj/view" target="_blank">here</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -16,7 +16,7 @@
 
 
 - 🌐 Visit my portfolio at <a href="https://nihara.vercel.app/" target="_blank">here</a>
-- 📄 Check out my resume <a href =" https://drive.google.com/file/d/1Wr-Mi-_5Bf5KigLOOlLQFHQ-l3FeQLGy/view?usp=drive_link " target="_blank">here</a>
+- 📄 Check out my resume <a href ="https://drive.google.com/file/d/1Wr-Mi-_5Bf5KigLOOlLQFHQ-l3FeQLGy/view?usp=drive_link" target="_blank">here</a>
 
 
 
